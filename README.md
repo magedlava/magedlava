@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Maged Mohamed
 - 👀 I’m interested Software Development, Learning new things :)
-- 🌱 I’m currently learning frappy, python and vue.js
+- 🌱 I’m currently learning frappe, python and vue.js
 - 💞️ I’m looking to collaborate on frappe
 - 📫 How to reach me maged0mohamed@outlook.com
 
